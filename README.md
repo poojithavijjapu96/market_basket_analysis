@@ -11,7 +11,7 @@ Market basket analysis is a powerful technique used to uncover associations betw
 
 <h3>Highlights:</h3>
 
-_<h4> 1. Huge Raw Data: </h4>_ The dataset contains a significant volume of raw transactional data, presenting both challenges and opportunities for analysis.
+_<h4> 1. Huge Raw Data: </h4>_ The dataset contains a significant volume of raw transactional data, presenting both challenges and opportunities for data extraction, manipulation and analysis.
 _<h4> 2. Utilizing Market Basket Analysis:</h4>_  Leveraging market basket analysis techniques allows us to extract valuable insights from the dataset and uncover hidden patterns.
 _<h4> 3. Providing Recommendations: </h4>_ Based on the insights derived from the analysis, we offer recommendations for strategic initiatives such as product bundling, targeted marketing campaigns, and inventory management optimization to drive business growth and enhance customer satisfaction.
 
